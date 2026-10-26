@@ -1,2 +1,6 @@
 node_modules/
 dist/
+
+# Copiados por @coderline/alphatab-vite (se regeneran en dev y build)
+public/font/
+public/soundfont/

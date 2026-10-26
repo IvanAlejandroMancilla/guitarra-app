@@ -4,6 +4,12 @@ App web para aprender guitarra eléctrica con tu guitarra real, al estilo Rocksm
 
 Funciona 100 % en el navegador, sin servidor: el audio nunca sale de tu equipo.
 
+**Pruébala en línea:** <https://ivanalejandromancilla.github.io/guitarra-app/>
+
+## Publicación
+
+El sitio se publica solo con GitHub Actions ([`.github/workflows/pages.yml`](.github/workflows/pages.yml)): en cada push a `main` se ejecutan lint, pruebas y build, y el contenido de `dist/` se sube a GitHub Pages. La app compilada vive en `/guitarra-app/` (ver `base` en `vite.config.ts`).
+
 ## Qué incluye
 
 - **Afinador** con aguja de cents y afinaciones estándar, Drop D, medio tono abajo, Drop C, DADGAD y Open G.
@@ -92,7 +98,6 @@ La documentación de diseño está en [`docs/`](docs/): visión y fases (`proyec
 
 - Detecta una nota a la vez; todavía no reconoce acordes.
 - Si una canción de Guitar Pro cambia de tempo, se reproduce entera al tempo inicial.
-- No hay sitio publicado: por ahora se usa en local. Para publicar la versión compilada hay que agregar `@coderline/alphatab-vite` a la configuración de Vite.
 - No admite archivos de Rocksmith (`.psarc`).
 
 ## Licencia

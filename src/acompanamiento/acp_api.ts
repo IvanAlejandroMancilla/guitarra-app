@@ -19,6 +19,9 @@ export function acp_crearApi(elem: HTMLElement, urlSoundfont: string): AlphaTabA
       useWorkers: false,
       enableLazyLoading: true,
       logLevel: 'warning',
+      // La fuente la copia el plugin de Vite a <base>/font/; sin esto alphaTab la busca en la raíz del dominio
+      // y falla en GitHub Pages, donde la app vive en /guitarra-app/.
+      fontDirectory: `${import.meta.env.BASE_URL}font/`,
     },
     display: { staveProfile: 'Tab', layoutMode: 'Horizontal' },
     player: {
