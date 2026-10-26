@@ -1,0 +1,32 @@
+{
+  "titulo": "Pentatónica de La menor (posición 1)",
+  "bpm": 70,
+  "modo": "estricto",
+  "descripcion": "La caja clásica en el quinto traste, ida y vuelta. Modo estricto: cuenta la octava.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "La", "oct": 2, "cur": 6, "trs": 5, "dedo": 1, "tiempo": 4, "dur": 1},
+    {"nombre": "Do", "oct": 3, "cur": 6, "trs": 8, "dedo": 4, "tiempo": 5, "dur": 1},
+    {"nombre": "Re", "oct": 3, "cur": 5, "trs": 5, "dedo": 1, "tiempo": 6, "dur": 1},
+    {"nombre": "Mi", "oct": 3, "cur": 5, "trs": 7, "dedo": 3, "tiempo": 7, "dur": 1},
+    {"nombre": "Sol", "oct": 3, "cur": 4, "trs": 5, "dedo": 1, "tiempo": 8, "dur": 1},
+    {"nombre": "La", "oct": 3, "cur": 4, "trs": 7, "dedo": 3, "tiempo": 9, "dur": 1},
+    {"nombre": "Do", "oct": 4, "cur": 3, "trs": 5, "dedo": 1, "tiempo": 10, "dur": 1},
+    {"nombre": "Re", "oct": 4, "cur": 3, "trs": 7, "dedo": 3, "tiempo": 11, "dur": 1},
+    {"nombre": "Mi", "oct": 4, "cur": 2, "trs": 5, "dedo": 1, "tiempo": 12, "dur": 1},
+    {"nombre": "Sol", "oct": 4, "cur": 2, "trs": 8, "dedo": 4, "tiempo": 13, "dur": 1},
+    {"nombre": "La", "oct": 4, "cur": 1, "trs": 5, "dedo": 1, "tiempo": 14, "dur": 1},
+    {"nombre": "Do", "oct": 5, "cur": 1, "trs": 8, "dedo": 4, "tiempo": 15, "dur": 1},
+    {"nombre": "La", "oct": 4, "cur": 1, "trs": 5, "dedo": 1, "tiempo": 16, "dur": 1},
+    {"nombre": "Sol", "oct": 4, "cur": 2, "trs": 8, "dedo": 4, "tiempo": 17, "dur": 1},
+    {"nombre": "Mi", "oct": 4, "cur": 2, "trs": 5, "dedo": 1, "tiempo": 18, "dur": 1},
+    {"nombre": "Re", "oct": 4, "cur": 3, "trs": 7, "dedo": 3, "tiempo": 19, "dur": 1},
+    {"nombre": "Do", "oct": 4, "cur": 3, "trs": 5, "dedo": 1, "tiempo": 20, "dur": 1},
+    {"nombre": "La", "oct": 3, "cur": 4, "trs": 7, "dedo": 3, "tiempo": 21, "dur": 1},
+    {"nombre": "Sol", "oct": 3, "cur": 4, "trs": 5, "dedo": 1, "tiempo": 22, "dur": 1},
+    {"nombre": "Mi", "oct": 3, "cur": 5, "trs": 7, "dedo": 3, "tiempo": 23, "dur": 1},
+    {"nombre": "Re", "oct": 3, "cur": 5, "trs": 5, "dedo": 1, "tiempo": 24, "dur": 1},
+    {"nombre": "Do", "oct": 3, "cur": 6, "trs": 8, "dedo": 4, "tiempo": 25, "dur": 1},
+    {"nombre": "La", "oct": 2, "cur": 6, "trs": 5, "dedo": 1, "tiempo": 26, "dur": 1}
+  ]
+}

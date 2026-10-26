@@ -1,0 +1,25 @@
+{
+  "titulo": "Mi grave rítmico",
+  "bpm": 50,
+  "modo": "estricto",
+  "descripcion": "Sexta cuerda al aire: primero cada dos pulsos y luego en cada pulso. Apaga la cuerda con la palma entre golpe y golpe.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 4, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 6, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 8, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 10, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 12, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 14, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 16, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 18, "dur": 1},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 20, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 21, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 22, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 23, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 24, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 25, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 26, "dur": 0.5},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 27, "dur": 0.5}
+  ]
+}

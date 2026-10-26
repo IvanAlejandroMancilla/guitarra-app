@@ -1,0 +1,14 @@
+{
+  "titulo": "Primera posición: cuerda 3 (Sol)",
+  "bpm": 60,
+  "modo": "estricto",
+  "descripcion": "Notas naturales de la tercera cuerda entre los trastes 0 y 3 (Sol, La), subiendo y bajando dos veces. En primera posición cada dedo toca su traste: el 1 (índice) el traste 1, el 2 (medio) el 2 y el 3 (anular) el 3.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 4, "dur": 2},
+    {"nombre": "La", "oct": 3, "cur": 3, "trs": 2, "dedo": 2, "tiempo": 6, "dur": 2},
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 8, "dur": 2},
+    {"nombre": "La", "oct": 3, "cur": 3, "trs": 2, "dedo": 2, "tiempo": 10, "dur": 2},
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 12, "dur": 2}
+  ]
+}

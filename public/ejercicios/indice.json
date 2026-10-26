@@ -1,0 +1,137 @@
+{
+  "entradas": [
+    {
+      "id": "cuerdas-al-aire",
+      "titulo": "Cuerdas al aire",
+      "archivo": "cuerdas-al-aire.json",
+      "nivel": 1,
+      "descripcion": "Las seis cuerdas al aire, afinación estándar."
+    },
+    {
+      "id": "mi-grave-ritmico",
+      "titulo": "Mi grave rítmico",
+      "archivo": "mi-grave-ritmico.json",
+      "nivel": 1,
+      "descripcion": "Sexta cuerda al aire, lento, para trabajar el tiempo."
+    },
+    {
+      "id": "primera-posicion-cuerda-6",
+      "titulo": "Primera posición: cuerda 6 (Mi grave)",
+      "archivo": "primera-posicion-cuerda-6.json",
+      "nivel": 1,
+      "descripcion": "Notas naturales de la sexta cuerda, trastes 0 a 3."
+    },
+    {
+      "id": "primera-posicion-cuerda-5",
+      "titulo": "Primera posición: cuerda 5 (La)",
+      "archivo": "primera-posicion-cuerda-5.json",
+      "nivel": 1,
+      "descripcion": "Notas naturales de la quinta cuerda, trastes 0 a 3."
+    },
+    {
+      "id": "primera-posicion-cuerda-4",
+      "titulo": "Primera posición: cuerda 4 (Re)",
+      "archivo": "primera-posicion-cuerda-4.json",
+      "nivel": 1,
+      "descripcion": "Notas naturales de la cuarta cuerda, trastes 0 a 3."
+    },
+    {
+      "id": "primera-posicion-cuerda-3",
+      "titulo": "Primera posición: cuerda 3 (Sol)",
+      "archivo": "primera-posicion-cuerda-3.json",
+      "nivel": 1,
+      "descripcion": "Notas naturales de la tercera cuerda, trastes 0 a 3."
+    },
+    {
+      "id": "primera-posicion-cuerda-2",
+      "titulo": "Primera posición: cuerda 2 (Si)",
+      "archivo": "primera-posicion-cuerda-2.json",
+      "nivel": 1,
+      "descripcion": "Notas naturales de la segunda cuerda, trastes 0 a 3."
+    },
+    {
+      "id": "primera-posicion-cuerda-1",
+      "titulo": "Primera posición: cuerda 1 (Mi agudo)",
+      "archivo": "primera-posicion-cuerda-1.json",
+      "nivel": 1,
+      "descripcion": "Notas naturales de la primera cuerda, trastes 0 a 3."
+    },
+    {
+      "id": "primera-posicion-todas",
+      "titulo": "Primera posición: todas las cuerdas",
+      "archivo": "primera-posicion-todas.json",
+      "nivel": 1,
+      "descripcion": "Todas las notas naturales de los trastes 0 a 3, de la sexta a la primera cuerda."
+    },
+    {
+      "id": "escala-do-mayor",
+      "titulo": "Escala de Do mayor",
+      "archivo": "escala-do-mayor.json",
+      "nivel": 2,
+      "descripcion": "Primera posición, ida y vuelta."
+    },
+    {
+      "id": "notas-cuerda-6",
+      "titulo": "Notas de la cuerda 6 (Mi grave)",
+      "archivo": "notas-cuerda-6.json",
+      "nivel": 2,
+      "descripcion": "Notas naturales de la sexta cuerda del traste 0 al 12, subiendo y bajando."
+    },
+    {
+      "id": "notas-cuerda-5",
+      "titulo": "Notas de la cuerda 5 (La)",
+      "archivo": "notas-cuerda-5.json",
+      "nivel": 2,
+      "descripcion": "Notas naturales de la quinta cuerda del traste 0 al 12, subiendo y bajando."
+    },
+    {
+      "id": "notas-cuerda-4",
+      "titulo": "Notas de la cuerda 4 (Re)",
+      "archivo": "notas-cuerda-4.json",
+      "nivel": 2,
+      "descripcion": "Notas naturales de la cuarta cuerda del traste 0 al 12, subiendo y bajando."
+    },
+    {
+      "id": "notas-cuerda-3",
+      "titulo": "Notas de la cuerda 3 (Sol)",
+      "archivo": "notas-cuerda-3.json",
+      "nivel": 2,
+      "descripcion": "Notas naturales de la tercera cuerda del traste 0 al 12, subiendo y bajando."
+    },
+    {
+      "id": "notas-cuerda-2",
+      "titulo": "Notas de la cuerda 2 (Si)",
+      "archivo": "notas-cuerda-2.json",
+      "nivel": 2,
+      "descripcion": "Notas naturales de la segunda cuerda del traste 0 al 12, subiendo y bajando."
+    },
+    {
+      "id": "notas-cuerda-1",
+      "titulo": "Notas de la cuerda 1 (Mi agudo)",
+      "archivo": "notas-cuerda-1.json",
+      "nivel": 2,
+      "descripcion": "Notas naturales de la primera cuerda del traste 0 al 12, subiendo y bajando."
+    },
+    {
+      "id": "oda-a-la-alegria",
+      "titulo": "Oda a la alegría",
+      "archivo": "oda-a-la-alegria.json",
+      "nivel": 2,
+      "descripcion": "Beethoven en una sola cuerda."
+    },
+    {
+      "id": "encontrar-nota",
+      "titulo": "Encontrar la nota",
+      "archivo": "encontrar-nota.json",
+      "nivel": 3,
+      "descripcion": "Se pide solo el nombre: tócala donde quieras del mástil (modo flexible)."
+    },
+    {
+      "id": "pentatonica-la-menor",
+      "titulo": "Pentatónica de La menor",
+      "archivo": "pentatonica-la-menor.json",
+      "nivel": 3,
+      "descripcion": "Posición 1, quinto traste."
+    }
+  ]
+}

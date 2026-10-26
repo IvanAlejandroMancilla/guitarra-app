@@ -1,0 +1,18 @@
+{
+  "titulo": "Primera posición: cuerda 4 (Re)",
+  "bpm": 60,
+  "modo": "estricto",
+  "descripcion": "Notas naturales de la cuarta cuerda entre los trastes 0 y 3 (Re, Mi, Fa), subiendo y bajando dos veces. En primera posición cada dedo toca su traste: el 1 (índice) el traste 1, el 2 (medio) el 2 y el 3 (anular) el 3.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "Re", "oct": 3, "cur": 4, "trs": 0, "dedo": 0, "tiempo": 4, "dur": 2},
+    {"nombre": "Mi", "oct": 3, "cur": 4, "trs": 2, "dedo": 2, "tiempo": 6, "dur": 2},
+    {"nombre": "Fa", "oct": 3, "cur": 4, "trs": 3, "dedo": 3, "tiempo": 8, "dur": 2},
+    {"nombre": "Mi", "oct": 3, "cur": 4, "trs": 2, "dedo": 2, "tiempo": 10, "dur": 2},
+    {"nombre": "Re", "oct": 3, "cur": 4, "trs": 0, "dedo": 0, "tiempo": 12, "dur": 2},
+    {"nombre": "Mi", "oct": 3, "cur": 4, "trs": 2, "dedo": 2, "tiempo": 14, "dur": 2},
+    {"nombre": "Fa", "oct": 3, "cur": 4, "trs": 3, "dedo": 3, "tiempo": 16, "dur": 2},
+    {"nombre": "Mi", "oct": 3, "cur": 4, "trs": 2, "dedo": 2, "tiempo": 18, "dur": 2},
+    {"nombre": "Re", "oct": 3, "cur": 4, "trs": 0, "dedo": 0, "tiempo": 20, "dur": 2}
+  ]
+}

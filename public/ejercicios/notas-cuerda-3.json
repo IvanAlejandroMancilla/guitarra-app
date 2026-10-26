@@ -1,0 +1,24 @@
+{
+  "titulo": "Notas de la cuerda 3 (Sol)",
+  "bpm": 60,
+  "modo": "estricto",
+  "descripcion": "Las notas naturales de la tercera cuerda del traste 0 al 12 (Sol, La, Si, Do, Re, Mi, Fa, Sol), subiendo y bajando. Cambia de posición con el índice al subir y con el meñique al bajar.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 4, "dur": 2},
+    {"nombre": "La", "oct": 3, "cur": 3, "trs": 2, "dedo": 2, "tiempo": 6, "dur": 2},
+    {"nombre": "Si", "oct": 3, "cur": 3, "trs": 4, "dedo": 4, "tiempo": 8, "dur": 2},
+    {"nombre": "Do", "oct": 4, "cur": 3, "trs": 5, "dedo": 1, "tiempo": 10, "dur": 2},
+    {"nombre": "Re", "oct": 4, "cur": 3, "trs": 7, "dedo": 3, "tiempo": 12, "dur": 2},
+    {"nombre": "Mi", "oct": 4, "cur": 3, "trs": 9, "dedo": 1, "tiempo": 14, "dur": 2},
+    {"nombre": "Fa", "oct": 4, "cur": 3, "trs": 10, "dedo": 2, "tiempo": 16, "dur": 2},
+    {"nombre": "Sol", "oct": 4, "cur": 3, "trs": 12, "dedo": 4, "tiempo": 18, "dur": 2},
+    {"nombre": "Fa", "oct": 4, "cur": 3, "trs": 10, "dedo": 2, "tiempo": 20, "dur": 2},
+    {"nombre": "Mi", "oct": 4, "cur": 3, "trs": 9, "dedo": 1, "tiempo": 22, "dur": 2},
+    {"nombre": "Re", "oct": 4, "cur": 3, "trs": 7, "dedo": 4, "tiempo": 24, "dur": 2},
+    {"nombre": "Do", "oct": 4, "cur": 3, "trs": 5, "dedo": 2, "tiempo": 26, "dur": 2},
+    {"nombre": "Si", "oct": 3, "cur": 3, "trs": 4, "dedo": 1, "tiempo": 28, "dur": 2},
+    {"nombre": "La", "oct": 3, "cur": 3, "trs": 2, "dedo": 2, "tiempo": 30, "dur": 2},
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 32, "dur": 2}
+  ]
+}

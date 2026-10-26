@@ -1,0 +1,23 @@
+{
+  "titulo": "Encontrar la nota",
+  "bpm": 60,
+  "modo": "flexible",
+  "descripcion": "Se pide solo el nombre de la nota: tócala en cualquier cuerda, traste u octava. El mástil marca todas las posiciones válidas entre los trastes 0 y 12. Hay tiempo de sobra entre nota y nota para buscarla.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "Mi", "oct": 3, "tiempo": 4, "dur": 4},
+    {"nombre": "La", "oct": 3, "tiempo": 10, "dur": 4},
+    {"nombre": "Re", "oct": 3, "tiempo": 16, "dur": 4},
+    {"nombre": "Sol", "oct": 3, "tiempo": 22, "dur": 4},
+    {"nombre": "Si", "oct": 3, "tiempo": 28, "dur": 4},
+    {"nombre": "Do", "oct": 3, "tiempo": 34, "dur": 4},
+    {"nombre": "Fa", "oct": 3, "tiempo": 40, "dur": 4},
+    {"nombre": "Sol", "oct": 3, "tiempo": 46, "dur": 4},
+    {"nombre": "Do", "oct": 3, "tiempo": 52, "dur": 4},
+    {"nombre": "La", "oct": 3, "tiempo": 58, "dur": 4},
+    {"nombre": "Fa", "oct": 3, "tiempo": 64, "dur": 4},
+    {"nombre": "Mi", "oct": 3, "tiempo": 70, "dur": 4},
+    {"nombre": "Si", "oct": 3, "tiempo": 76, "dur": 4},
+    {"nombre": "Re", "oct": 3, "tiempo": 82, "dur": 4}
+  ]
+}

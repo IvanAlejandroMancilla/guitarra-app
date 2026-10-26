@@ -1,0 +1,20 @@
+{
+  "titulo": "Cuerdas al aire",
+  "bpm": 60,
+  "modo": "estricto",
+  "descripcion": "Las seis cuerdas al aire en afinación estándar, de la sexta a la primera y de vuelta. Ideal para revisar la afinación y la detección.",
+  "pulsosPorCompas": 4,
+  "notas": [
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 4, "dur": 2},
+    {"nombre": "La", "oct": 2, "cur": 5, "trs": 0, "dedo": 0, "tiempo": 6, "dur": 2},
+    {"nombre": "Re", "oct": 3, "cur": 4, "trs": 0, "dedo": 0, "tiempo": 8, "dur": 2},
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 10, "dur": 2},
+    {"nombre": "Si", "oct": 3, "cur": 2, "trs": 0, "dedo": 0, "tiempo": 12, "dur": 2},
+    {"nombre": "Mi", "oct": 4, "cur": 1, "trs": 0, "dedo": 0, "tiempo": 14, "dur": 2},
+    {"nombre": "Si", "oct": 3, "cur": 2, "trs": 0, "dedo": 0, "tiempo": 16, "dur": 2},
+    {"nombre": "Sol", "oct": 3, "cur": 3, "trs": 0, "dedo": 0, "tiempo": 18, "dur": 2},
+    {"nombre": "Re", "oct": 3, "cur": 4, "trs": 0, "dedo": 0, "tiempo": 20, "dur": 2},
+    {"nombre": "La", "oct": 2, "cur": 5, "trs": 0, "dedo": 0, "tiempo": 22, "dur": 2},
+    {"nombre": "Mi", "oct": 2, "cur": 6, "trs": 0, "dedo": 0, "tiempo": 24, "dur": 2}
+  ]
+}
